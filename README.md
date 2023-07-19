@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, my name is Chaitanya
+#### I am a Computer Enthusiast
+![I am a Computer Enthusiast](https://img.freepik.com/premium-vector/machine-learning-ai-minimal-infographic-web-banner-vector-artificial-intelligence-algorithm-machine-learning-robotic-solution-education-color-illustration_87720-4417.jpg?w=2000)
 
-<!--
-**ChaitanyaWadawadagi/ChaitanyaWadawadagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently studying Computer Science Engineering as a sophomore in K. L. E. Institute of Technology.
 
-Here are some ideas to get you started:
+Skills: C / JAVA / PYTHON / HTML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on developing useful skills 
+- 🌱 I’m currently learning Python and Java 
+- 📫 How to reach me: chaitanyawadawadagi@gmail.com 
+- 😄 Pronouns: he/him 
+- ⚡ Fun fact: I think I can code 
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=ChaitanyaWadawadagi)  
